@@ -41,4 +41,4 @@ Configuração de um serviço de banco de dados relacional gerenciado (PaaS) via
 * **Provisionamento:** Criação do recurso selecionando Grupo de Recursos (*Resource Group*), região e servidor lógico.
 * **Camada de Computação e Armazenamento:** Ajuste de vCores, memória e tipo de desempenho conforme a carga da aplicação.
 * **Segurança e Rede:** Configuração de regras de firewall do servidor, definindo liberação de IPs específicos e habilitando o acesso de outros serviços do Azure ao banco.
-* **Vantagens do Modelo Gerenciado:** Backups automatizados, alta disponibilidade nativa e aplicação automática de patches de segurança sem intervenção manual no SO.
+* **Vantagens do Modelo Gerenciado:** Backups automatizados, alta disponibilidade nativa e aplicação automática de patches de segurança sem intervenção manual noo SO.
