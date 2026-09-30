@@ -41,11 +41,12 @@ Estratégias do Azure para garantir que aplicações e VMs continuem operando me
 
 ## SLA (Service Level Agreement)
 
-O **Acordo de Nível de Serviço** define o compromisso formal da Microsoft quanto ao tempo de atividade (*uptime*) e conectividade. O SLA de máquinas virtuais varia conforme a arquitetura de redundância adotada:
+O **Acordo de Nível de Serviço** define o compromisso formal da Microsoft quanto ao tempo de atividade (*uptime*) e conectividade. Abaixo está a relação entre a porcentagem de SLA e o tempo máximo de inatividade tolerado:
 
-| Configuração da Arquitetura | SLA Garantido | Tempo Máximo de Inatividade (Mensal) |
-| --- | --- | --- |
-| **VM Única** (com SSD Standard) | **99,5%** | ~3,6 horas |
-| **VM Única** (com SSD Premium ou Ultra Disk) | **99,9%** | ~43,2 minutos |
-| **2+ VMs em Conjunto de Disponibilidade** (Availability Set) | **99,95%** | ~21,6 minutos |
-| **2+ VMs em Zonas de Disponibilidade** (Availability Zones) | **99,99%** | ~4,32 minutos |
+| SLA | Tempo de inatividade por semana | Tempo de inatividade por mês | Tempo de inatividade por ano |
+| :--- | :--- | :--- | :--- |
+| **99%** | 1,68 hora | 7,2 horas | 3,65 dias |
+| **99,9%** | 10,1 minutos | 43,2 minutos | 8,76 horas |
+| **99,95%** | 5 minutos | 21,6 minutos | 4,38 horas |
+| **99,99%** | 1,01 minuto | 4,32 minutos | 52,56 minutos |
+| **99,999%** | 6 segundos | 25,9 segundos | 5,26 minutos |
