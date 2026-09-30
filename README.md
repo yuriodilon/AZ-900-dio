@@ -10,7 +10,8 @@ Repositório central para armazenar todos os resumos e entregas de projetos do c
 Abaixo estão os links rápidos para as anotações e atividades de cada módulo:
 
 * [Módulo 01: Conceitos Iniciais de Cloud com Azure](modulos/Modulo_01_Conceitos_Iniciais.md)
-* [Módulo 02: Tipos de serviços de Nuvem](modulos/Modulo_02_Tipos_de_Servico_de_Nuvem.md)
+* [Módulo 01: Tipos de serviços de Nuvem](modulos/Modulo_02_Tipos_de_Servico_de_Nuvem.md)
+* [Módulo 02: Arquitetura e Serviços Azure](modulos/Modulo_03_Arquitetura_e_Servicos_Azure.md)
 * *(Os próximos módulos serão adicionados aqui)*
 
 ---
