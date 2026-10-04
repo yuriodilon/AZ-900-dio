@@ -13,6 +13,7 @@ Abaixo estão os links rápidos para as anotações e atividades de cada módulo
 * [Módulo 01: Tipos de serviços de Nuvem](modulos/Modulo_02_Tipos_de_Servico_de_Nuvem.md)
 * [Módulo 02: Arquitetura e Serviços Azure](modulos/Modulo_02_Arquitetura_e_Servicos_Azure.md)
 * [Módulo 02: Arquitetura e Recursos](modulos/Modulo_02_Infraestrutura_e_Recursos.md)
-* *(Os próximos módulos serão adicionados aqui)*
+* [Módulo 02: Arquitetura e Recursos](modulos/Modulo_02_Infraestrutura_e_Recursos.md)
+* 
 
 ---
