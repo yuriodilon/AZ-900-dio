@@ -14,6 +14,6 @@ Abaixo estão os links rápidos para as anotações e atividades de cada módulo
 * [Módulo 02: Arquitetura e Serviços Azure](modulos/Modulo_02_01_Arquitetura_e_Servicos_Azure)
 * [Módulo 02: Infraestrutura e Recursos](modulos/Modulo_02_02_Infraestrutura_e_Recursos.md)
 * [Módulo 02: Computacao e Rede](modulos/Modulo_02_03_Computacao_e_Rede.md)
-* 
+* [Módulo 02: Armazenamento Azure](modulos/modulo_02_04_armazenamento_azure.md)
 
 ---
