@@ -19,5 +19,7 @@ Abaixo estão os links rápidos para as anotações e atividades de cada módulo
 * [Módulo 03: Gerenciamento de Custos no Azure](modulos/modulo_03_01_Gerenciamento_de_Custos.md)
 * [Módulo 03: Governança e Conformidade no Azure](modulos/Modulo_03_02_Governanca_e_Conformidade.md)
 * [Módulo 03: Ferramentas de Implantação e Gerenciamento](modulos/Modulo_03_03_Ferramentas_de_Implantacao.md)
+* [Módulo 03: Ferramentas de Monitoramento](modulos/modulo_03_04_Ferramentas_de_Monitoramento.md)
+
 
 ---
