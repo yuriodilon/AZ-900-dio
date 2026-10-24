@@ -17,5 +17,6 @@ Abaixo estão os links rápidos para as anotações e atividades de cada módulo
 * [Módulo 02: Armazenamento Azure](modulos/modulo_02_04_armazenamento_azure.md)
 * [Módulo 02: Identidade, Acesso e Segurança no Azure](modulos/modulo_02_05_identidade-acesso-e-securanca-azure.md)
 * [Módulo 02: Gerenciamento de Custos no Azure](modulos/modulo_02_06_Gerenciamento_de_Custos.md)
+* [Módulo 02: Governança e Conformidade no Azure](modulos/Modulo_02_07_Governanca_e_Conformidade.md)
 
 ---
